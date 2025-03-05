@@ -47,4 +47,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [teghsingh2@gmail.com](mailto:teghsingh2@gmail.com)
+[teghsingh2@gmail.com](mailto:teghsingh2@gmail.com)
